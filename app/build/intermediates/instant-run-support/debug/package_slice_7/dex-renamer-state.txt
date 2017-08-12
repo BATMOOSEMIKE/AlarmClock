@@ -1,0 +1,4 @@
+#Thu Jul 27 11:38:11 PDT 2017
+base.0=D\:\\MICHAEL\\Programming\\NewAndroid\\AlarmClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=D\:\\MICHAEL\\Programming\\NewAndroid\\AlarmClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

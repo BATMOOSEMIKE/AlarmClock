@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MICHAEL\\Programming\\NewAndroid\\AlarmClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Michael\\.android\\build-cache\\0637b0effef733f6ff5f1458896407e11abfe220\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\MICHAEL\\Programming\\NewAndroid\\AlarmClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Michael\\.android\\build-cache\\0637b0effef733f6ff5f1458896407e11abfe220\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\MICHAEL\\Programming\\NewAndroid\\AlarmClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Michael\\.android\\build-cache\\0637b0effef733f6ff5f1458896407e11abfe220\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\MICHAEL\\Programming\\NewAndroid\\AlarmClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Michael\\.android\\build-cache\\0637b0effef733f6ff5f1458896407e11abfe220\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]
